@@ -8,7 +8,8 @@ Import the math module.
 ### Step 2:  
 Get the first point(x1,y1) and second point(x2,y2) in form of list.  
 ### Step 3: 
-Substitute the values in the distance formula ![FORMULA](./images/formula.png)  
+Substitute the values in the distance formula  
+![FORMULA](./images/formula.png)  
 ### Step 4:  
 Calculate the distance using the sqrt() function.  
 ### Step 5:  
