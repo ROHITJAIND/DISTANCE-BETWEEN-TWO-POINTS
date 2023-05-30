@@ -1,4 +1,4 @@
-# DISTANCE-BETWEEN-TWO-POINTS
+# DISTANCE BETWEEN TWO POINTS
 ## AIM:
 To write a python program to find the distance two 2 points.
 ## Equipment’s required:
@@ -21,6 +21,7 @@ dist=math.sqrt(((d2[0]-d1[0])**2)+((d2[1]-d1[1])**2))
 print("%.2f"%dist)
 ```
 ### OUTPUT:
-![OUTPUT](./images/output.png)  
+<img height=10% width=30% src="./images/output.png">
+
 ### RESULT:
 Thus the distance between two points is calculated using python program.
